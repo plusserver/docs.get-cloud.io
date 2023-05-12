@@ -61,7 +61,7 @@ includeFields = ''
 # Language configuration
 [languages]
 [languages.en]
-title = "plusserver"
+title = ""
 description = "The technical documentation for plusserver"
 languageName = "English"
 # Weight used for sorting.
